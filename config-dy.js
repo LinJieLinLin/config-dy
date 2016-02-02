@@ -1,5 +1,5 @@
 var DYCONFIG = {
     sso:{
-        rootUrl:'http://sso.dev.gdy.io/'
+        rUrl:'http://sso.dev.gdy.io/'
     }
 };
